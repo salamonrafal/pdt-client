@@ -1,0 +1,26 @@
+{
+  "name": "pdt-client",
+  "version": "0.0.1",
+  "description": "Parsing Document Tool Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salamonrafal/pdt-client.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "reactjs",
+    "ts",
+    "typescript"
+  ],
+  "author": "Rafal Salamon <rasa@salamonrafal.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salamonrafal/pdt-client/issues"
+  },
+  "homepage": "https://github.com/salamonrafal/pdt-client#readme"
+}
